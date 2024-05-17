@@ -1,0 +1,203 @@
+{
+  "users": {
+    "919366316018@s.whatsapp.net": {
+      "serialNumber": "5748ef2731f9b0ab993964d915670166",
+      "title": "Premium",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "Hui",
+      "premium": "true",
+      "limit": 1000,
+      "totalLimit": 0
+    },
+    "6285217710621@s.whatsapp.net": {
+      "serialNumber": "08e67fdc0c8f3f524e54154ff40be07f",
+      "title": "Premium",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "leo",
+      "premium": "true",
+      "limit": 1000,
+      "totalLimit": 0
+    },
+    "6281396625906@s.whatsapp.net": {
+      "serialNumber": "b2013c7765a1007b58b477374ce393f8",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "Pieter",
+      "premium": false,
+      "limit": 100,
+      "totalLimit": 0
+    },
+    "6285956120609@s.whatsapp.net": {
+      "serialNumber": "8306c861bfca82d296e57f8529fc6e43",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "Sel",
+      "premium": false,
+      "limit": 100,
+      "totalLimit": 0
+    }
+  },
+  "database": {},
+  "chats": {
+    "120363047626537933@g.us": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antibot": false,
+      "antiviewonce": false,
+      "antispam": false,
+      "antivirtex": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antipoll": false,
+      "antisticker": false,
+      "antilocation": false,
+      "antidocument": false,
+      "anticontact": false,
+      "antilink": false,
+      "antipromotion": false,
+      "antilinkgc": false
+    },
+    "6285217710621@s.whatsapp.net": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antibot": false,
+      "antiviewonce": false,
+      "antispam": false,
+      "antivirtex": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antipoll": false,
+      "antisticker": false,
+      "antilocation": false,
+      "antidocument": false,
+      "anticontact": false,
+      "antilink": false,
+      "antipromotion": false,
+      "antilinkgc": false
+    },
+    "120363026508003201@g.us": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antibot": false,
+      "antiviewonce": false,
+      "antispam": false,
+      "antivirtex": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antipoll": false,
+      "antisticker": false,
+      "antilocation": false,
+      "antidocument": false,
+      "anticontact": false,
+      "antilink": false,
+      "antipromotion": false,
+      "antilinkgc": false
+    },
+    "120363296128335245@g.us": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antibot": false,
+      "antiviewonce": false,
+      "antispam": false,
+      "antivirtex": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antipoll": false,
+      "antisticker": false,
+      "antilocation": false,
+      "antidocument": false,
+      "anticontact": false,
+      "antilink": false,
+      "antipromotion": false,
+      "antilinkgc": false
+    }
+  },
+  "game": {
+    "math": []
+  },
+  "settings": {
+    "919366316018@s.whatsapp.net": {
+      "totalhit": 4,
+      "totalError": 0,
+      "online": false,
+      "autosticker": false,
+      "autodownload": false,
+      "autobio": false,
+      "autoread": false,
+      "autoblocknum": false,
+      "onlyindia": false,
+      "onlyindo": false,
+      "onlygrub": false,
+      "onlypc": false,
+      "autorecordtype": false,
+      "autorecord": false,
+      "autotype": false,
+      "watermark": {
+        "packname": "Sticker By",
+        "author": "🦄드림 가이 LeO\n\n+6285217710621"
+      },
+      "about": {
+        "bot": {
+          "nick": "Hui",
+          "alias": "Cheems Bot MD V12"
+        },
+        "owner": {
+          "nick": "+62 852 1771 0621",
+          "alias": "6285217710621"
+        }
+      }
+    },
+    "6285217710621@s.whatsapp.net": {
+      "totalhit": 5,
+      "totalError": 0,
+      "online": false,
+      "autosticker": false,
+      "autodownload": false,
+      "autobio": false,
+      "autoread": false,
+      "autoblocknum": false,
+      "onlyindia": false,
+      "onlyindo": false,
+      "onlygrub": false,
+      "onlypc": false,
+      "autorecordtype": false,
+      "autorecord": false,
+      "autotype": false,
+      "watermark": {
+        "packname": "Sticker By",
+        "author": "🦄드림 가이 LeO\n\n+6285217710621"
+      },
+      "about": {
+        "bot": {
+          "nick": "leo",
+          "alias": "LeO BOT"
+        },
+        "owner": {
+          "nick": "leo",
+          "alias": "6285217710621"
+        }
+      }
+    }
+  },
+  "message": {},
+  "sticker": {},
+  "others": {
+    "vote": []
+  }
+}
